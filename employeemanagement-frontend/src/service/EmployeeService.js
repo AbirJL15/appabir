@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://10.0.171.190:8080";
+const BASE_URL = "http://10.0.162.56:8080";
 class EmployeeService{
 
     //**Method to get all employee from our api or database */
